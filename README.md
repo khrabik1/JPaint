@@ -1,5 +1,5 @@
 # JPaint
-JPaint Application {Java}
+JPaint Application 
 Depaul University 
 SE 450 Object Oriented Software Development
 Professor Jeffrey Sharpe
